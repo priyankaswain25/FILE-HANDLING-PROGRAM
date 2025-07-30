@@ -50,3 +50,4 @@ This task builds core skills necessary for careers in backend development, syste
 
 *OUTPUT*:
 
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/7cbbded5-03a5-47ef-bb45-e28eef876f46" />
